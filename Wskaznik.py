@@ -1,0 +1,7 @@
+def zmienna(*a):print(a)
+zmienna()
+zmienna(1)
+zmienna(1,2,3,4,5)
+b=(7,4,2)
+zmienna(*b)
+zmienna([2,4],[7,1,1],[3])
